@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Miguel Galicia 👋</h1>
-<h3 align="center">Full-Stack & Data Engineer | Computer Engineering Student</h3>
+<h3 align="center">Full-Stack & Data Engineer | Computer Engineering</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Data-Driven+Engineer;Building+scalable+web+apps;Turning+data+into+insights" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🔭 Currently working as a **Full-Stack Developer (Champ Program)** at **Ford Mexico**, building and improving enterprise-scale web applications with **Spring Boot** & **Angular**
-- 🎓 Finishing my **BS in Computer Engineering** at **Tecnológico de Monterrey**, concentration in **Data Analytics & AI Tools** (2022–2026)
+- 🎓 Finished my **BS in Computer Engineering** at **Tecnológico de Monterrey**, concentration in **Data Analytics & AI Tools** (2022–2026)
 - 🌱 Passionate about full-stack development, data engineering, and turning raw data into actionable insights
 - 💼 Previously worked with **Kärcher Mexico**, **Thales**, **Zazil**, and **Natural Project** across web development, data analytics, and automation projects
 - 👯 Open to collaborating on full-stack, data engineering, or automation projects
@@ -70,17 +70,6 @@
   <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aragon3327&show_icons=true&theme=default&hide_border=true" alt="Miguel's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aragon3327&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
----
 
 ### 🌐 Connect with me
 

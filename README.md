@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Miguel Galicia 👋</h1>
-<h3 align="center">Full-Stack & Data Engineer | Computer Engineering</h3>
+<h3 align="center">Full-Stack & Data Engineer | Computer Engineering @ Tecnológico de Monterrey</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Data-Driven+Engineer;Building+scalable+web+apps;Turning+data+into+insights" alt="Typing SVG" />
@@ -9,14 +9,24 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working as a **Full-Stack Developer (Champ Program)** at **Ford Mexico**, building and improving enterprise-scale web applications with **Spring Boot** & **Angular**
-- 🎓 Finished my **BS in Computer Engineering** at **Tecnológico de Monterrey**, concentration in **Data Analytics & AI Tools** (2022–2026)
+- 🔭 Currently working as a **Full-Stack Developer (Champ Program)** at **Ford Mexico**, building and maintaining enterprise-scale web applications with **Spring Boot** & **Angular**, and shipping changes through **CI/CD pipelines on GCP** (GitHub Actions, Tekton)
+- 🎓 Finishing my **BS in Computer Engineering** at **Tecnológico de Monterrey**, concentration in **Data Analytics & AI Tools** (2022–2026)
 - 🌱 Passionate about full-stack development, data engineering, and turning raw data into actionable insights
 - 💼 Previously worked with **Kärcher Mexico**, **Thales**, **Zazil**, and **Natural Project** across web development, data analytics, and automation projects
 - 👯 Open to collaborating on full-stack, data engineering, or automation projects
-- 💬 Ask me about Spring Boot, Angular, Django, data pipelines (Polars, ETL), or dashboards (Tableau, Looker Studio)
+- 💬 Ask me about Spring Boot, Angular, Django, CI/CD (GitHub Actions, Tekton), data pipelines (Polars, ETL), or dashboards (Tableau, Looker Studio)
 - 📫 Reach me at **m.galicia3327@gmail.com** or [LinkedIn](https://www.linkedin.com/in/miguelga-sa)
 - ⚡ Fun fact: I built an AI-powered image search app's image processing system in a 24-hour hackathon (Hack MX 2024)
+
+---
+
+### 📌 Featured Projects
+
+- **[ETL & Analytics Pipeline — Thales Consulting Project](#)** — Architected end-to-end ETL pipelines (PostgreSQL, Polars), ran statistical analysis with Scikit-learn, built Tableau dashboards, and shipped a self-service data chatbot with n8n.
+- **[Zazil Purchasing & Inventory Portal](#)** — Full-stack inventory management web app (Django, PostgreSQL, Tailwind CSS) plus a companion Android app (Kotlin) for purchasing staff.
+- **[Hack MX 2024 — AI Image Search](#)** — Built the image handling and processing pipeline for an AI-powered image search app in a 24-hour hackathon.
+
+*(Swap the `#` links above for your actual repo URLs, and consider pinning these three on your profile so they're the first thing recruiters see.)*
 
 ---
 
@@ -39,6 +49,7 @@
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
@@ -53,14 +64,21 @@
   <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
 </p>
 
-**Databases & Cloud**
+**Cloud & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tekton-FD495C?style=flat-square&logo=tekton&logoColor=white" />
+</p>
+
+**Databases**
 <p>
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 **Tools**
@@ -69,6 +87,15 @@
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aragon3327&show_icons=true&theme=default&hide_border=true" alt="Miguel's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aragon3327&hide_border=true" alt="Miguel's GitHub streak" height="165"/>
 </p>
 
 ### 🌐 Connect with me

@@ -84,7 +84,6 @@ End-to-end ETL over ~700K rows, statistical analysis, Tableau (predicted) and Po
 
 `PostgreSQL` `Polars` `Scikit-learn` `Tableau` `Power BI` `n8n`
 
-[🔗 Details](#)
 
 </td>
 <td width="50%" valign="top">
@@ -96,7 +95,6 @@ Inventory portal for purchasing and warehouse staff, with a companion Android ap
 
 `Django` `PostgreSQL` `Tailwind CSS` `Kotlin`
 
-[🔗 Details](#)
 
 </td>
 </tr>
@@ -110,7 +108,6 @@ Tracks budgets, payments and outstanding balances, with visualizations of every 
 
 `Django` `SQLite` `JavaScript`
 
-[🔗 Details](#)
 
 </td>
 <td width="50%" valign="top">
@@ -121,8 +118,6 @@ Tracks budgets, payments and outstanding balances, with visualizations of every 
 Built the image handling and processing pipeline for an AI-powered image search app.
 
 `Full-stack` `Image processing`
-
-[🔗 Details](#)
 
 </td>
 </tr>
